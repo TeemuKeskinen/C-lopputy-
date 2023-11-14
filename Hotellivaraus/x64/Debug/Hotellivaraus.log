@@ -1,0 +1,9 @@
+﻿  Hotellivaraus.cpp
+C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\Hotellivaraus.cpp(287,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\Hotellivaraus.cpp(287,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\Hotellivaraus.cpp(287,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\Hotellivaraus.cpp(287,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\Hotellivaraus.cpp(345,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\Hotellivaraus.cpp(345,38): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\Hotellivaraus.cpp(346,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hotellivaraus.vcxproj -> C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\x64\Debug\Hotellivaraus.exe

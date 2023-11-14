@@ -1,0 +1,2 @@
+C:\Users\Teemu\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\x64\Debug\Hotellivaraus.exe
+C:\Users\temek\Documents\GitHub\Koulu\C++ tehtävät\Hotellivaraus\x64\Debug\Hotellivaraus.exe
